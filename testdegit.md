@@ -1,1 +1,0 @@
-Bonjour, est-ce que je vais réussir à faire fonctionner git?la réponse est oui.!!:w
